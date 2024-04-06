@@ -1,6 +1,6 @@
-# WhatsApp Heroku Bot
+# WhatsApp MAGSI Bot
 
-Uses [Venom Bot](https://github.com/orkestral/venom) library.
+Uses [Venom Bot](https://github.com/Dilmagsi) library.
 
 
 ## Deploying to heroku
@@ -9,12 +9,12 @@ Uses [Venom Bot](https://github.com/orkestral/venom) library.
 
 2.  Clone it locally
 ```console
-git clone https://github.com/YOUR_GITHUB_USER_NAME/whatsapp-heroku-bot
+git clone https://github.com/Dilmagsi/whatsapp-magsi-bot
 ```
 
 3.  Enter the folder
 ```console
-cd whatsapp-heroku-bot
+cd whatsapp-magsi-bot
 ```
 
 4.  (Optional) Install npm dependencies. Recommended if you're going to use `venom-bot`'s features.
@@ -70,12 +70,12 @@ until you see the QR code. Scan it from `WhatsApp` in your phone.
 
 2.  Clone it locally
 ```console
-git clone https://github.com/YOUR_GITHUB_USER_NAME/whatsapp-heroku-bot
+git clone https://github.com/Dilmagsi/whatsapp-magsi-bot
 ```
 
 3.  Enter the folder
 ```console
-cd whatsapp-heroku-bot
+cd whatsapp-magsi-bot
 ```
 
 4.  Install npm dependencies
@@ -97,4 +97,4 @@ npm start
 7. It should be working!
 
 
-[Venom Bot](https://github.com/orkestral/venom) docs [here](https://orkestral.github.io/venom/index.html).
+[Venom Bot](https://github.com/Dilmagsi) docs [here](https://orkestral.github.dilmagsi).
