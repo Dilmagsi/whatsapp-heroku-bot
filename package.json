@@ -1,7 +1,7 @@
 {
-  "name": "whatsapp-heroku-bot",
+  "name": "whatsapp-magsi-bot",
   "version": "1.0.0",
-  "description": "WhatsApp heroku bot",
+  "description": "WhatsApp magsi bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NicoAcosta/whatsapp-heroku-bot.git"
+    "url": "git+https://github.com/Dilmagsi/whatsapp-magsi-bot.git"
   },
   "keywords": [
-    "WhatsApp",
+    "Magsi",
     "bot",
-    "Heroku"
+    "Magsi"
   ],
   "author": "Nicolás Acosta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NicoAcosta/whatsapp-heroku-bot/issues"
+    "url": "https://github.com/Dilmagsi/whatsapp-magsi-bot/issues"
   },
-  "homepage": "https://github.com/NicoAcosta/whatsapp-heroku-bot#readme",
+  "homepage": "https://github.com/Dilmagsi/whatsapp-magsi-bot#readme",
   "dependencies": {
     "venom-bot": "^3.0.20"
   }
