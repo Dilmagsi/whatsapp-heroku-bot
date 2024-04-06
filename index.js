@@ -63,3 +63,4 @@ process.on('SIGINT', function () {
 function dateLog(text) {
 	console.log(new Date(), ' - ', text)
 }
+ 
