@@ -23,4 +23,4 @@ module.exports = {
 		'--ignore-ssl-errors',
 		'--ignore-certificate-errors-spki-list',
 	],
-}
+} 
